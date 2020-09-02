@@ -1,2 +1,4 @@
 title: Srideep Maulik
 theme: jekyll-theme-cayman
+plugins:
+  - jemoji
